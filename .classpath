@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Nico/Downloads/showboard.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/jadiet/Mes%20codes/java/showboard/showboard.doc.jar!/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/insanevehiclesshared"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/insanevehiclesmodel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/insanevehiclesview"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/insanevehiclescontroller"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/InsanevehiclesCAD"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
